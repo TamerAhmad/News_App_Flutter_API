@@ -13,7 +13,7 @@ The App Has:
 
 News attributes: (title, date, subTitle, cover)
 
-**Note: you need to provide news api key for application work well with you. Located at (lib/news.dart) **
+**Note: you need to provide news api key for application work well with you. Located at (lib/news.dart)**
 
 ### Support Me
 ![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
