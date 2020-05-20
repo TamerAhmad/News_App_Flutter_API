@@ -1,16 +1,29 @@
-# newsappflutter
+# Title
 
-A new Flutter application.
+News application with news API to display top-headlines news. With cool design.
+Was applied by Flutter and API.
 
-## Getting Started
+## Overview
+The API that i used is: **newsapi.org**
 
-This project is a starting point for a Flutter application.
+The App Has:
+- Top-headlines news Interface
+- Loading Interface
+- Cool design
 
-A few resources to get you started if this is your first Flutter project:
+News attributes: (title, date, subTitle, cover)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Note: you need to provide news api key for application work well with you. Located at (lib/news.dart) **
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Support Me
+![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
+[Buy Me A Coffee (Support Me)](https://www.patreon.com/tamerayesh)
+
+<img src="https://i.ibb.co/DpP9CmV/Screenshot-1590003265.png" width="345" height="710"><img src="https://i.ibb.co/bskTQrd/Screenshot-1590003372.png" width="345" height="710">
+
+### Support Me
+![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
+[Buy Me A Coffee (Support Me)](https://www.patreon.com/tamerayesh)
+
+By: Tamer M. Ahmad
+* If you have any question please ask me.
