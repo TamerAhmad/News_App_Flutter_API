@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class News {
   List<Article> news = [];
-  String apiKey = '1dc8ce6c2fdc421eb28a9f76b7632cd3';
+  String apiKey = 'your api key here';
   String newsSource = 'top-headlines';
 
   Future<void> getNews() async {
